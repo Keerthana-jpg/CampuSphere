@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    width: 90%;
+    height: 500px;
+    margin: 20px auto;
+    border: 2px solid #000;
+}
+
+#search-box {
+    padding: 8px;
+    width: 250px;
+    margin-bottom: 10px;
+}

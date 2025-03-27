@@ -1,0 +1,11 @@
+[
+    { "name": "Main Entrance", "x": 700, "y": 100 },
+    { "name": "Civil dept", "x": 400, "y": 800 },
+    { "name": "Electronics and Communication Dept", "x": 500, "y": 700 },
+    { "name": "Library", "x": 620, "y": 350 },
+    { "name": "Canteen", "x": 700, "y": 40 },
+    { "name": "Chemistry Lab", "x": 700, "y": 300 },
+    { "name": "Incubator", "x": 750, "y": 320 },
+    { "name": "Computer Science Dept", "x": 570, "y": 500 },
+    { "name": "IT Dept", "x": 550, "y": 500 }
+]

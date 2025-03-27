@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up | CampuSphere</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="form-container">
+            <h2>Sign Up</h2>
+            <p>Join CampuSphere and explore!</p>
+
+            <form id="signup-form">
+                <label for="name">Full Name</label>
+                <input type="text" id="name" placeholder="Enter your full name" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="Enter your email" required>
+
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Create a password" required>
+
+                <label for="role">Sign Up As</label>
+                <select id="role" required>
+                    <option value="student">Student</option>
+                    <option value="professional">Professional</option>
+                    <option value="mentor">Mentor</option>
+                    <option value="admin">Admin</option>
+                </select>
+
+                <button type="submit">Sign Up</button>
+            </form>
+
+            <p class="login-link">Already have an account? <a href="index2.html">Login</a></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
